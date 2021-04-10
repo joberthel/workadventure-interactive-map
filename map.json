@@ -130,8 +130,8 @@
          "properties":[
                 {
                  "name":"interactionRadius",
-                 "type":"int",
-                 "value":-1
+                 "type":"float",
+                 "value":-0.01
                 }, 
                 {
                  "name":"interactive",
